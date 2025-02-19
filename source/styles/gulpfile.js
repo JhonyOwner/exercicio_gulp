@@ -6,3 +6,5 @@ function compilaSass() {
     .pipe(sass())
     .pipe(gulp.dest("./build/styles"));
 }
+
+exports.sass = compilaSass;

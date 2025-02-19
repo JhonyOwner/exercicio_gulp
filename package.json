@@ -153,6 +153,7 @@
     "yargs-parser": "^20.2.9"
   },
   "scripts": {
+    "gulp": "gulp",
     "sass": "sass source/styles/main.scss build/styles/main.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
