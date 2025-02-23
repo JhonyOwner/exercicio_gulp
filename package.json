@@ -161,5 +161,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonyOwner/exercicio_gulp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JhonyOwner/exercicio_gulp/issues"
+  },
+  "homepage": "https://github.com/JhonyOwner/exercicio_gulp#readme",
   "description": ""
 }
